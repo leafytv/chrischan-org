@@ -1,1 +1,504 @@
+  body {  
+    color:#000;
+    background:#FFF;
+  }  
+html { 
+    color: #000; 
+    background: #FFF;
+} 
 
+html { 
+    background: #ffe;
+} 
+
+body { 
+    margin: 0; 
+    padding: 0;
+} 
+
+body { 
+    font: 13px/1.231 arial, helvetica, clean, sans-serif;
+} 
+
+body { 
+    text-align: center;
+} 
+
+body { 
+    background: #ffe url('https://s.4cdn.org/image/fp/fade.png') top repeat-x; 
+    color: #800;
+} 
+
+div { 
+    margin: 0; 
+    padding: 0;
+} 
+
+#doc { 
+    margin: auto; 
+    text-align: left; 
+    width: 57.69em; 
+    min-width: 750px;
+} 
+
+#hd { 
+    margin-bottom: 0;
+} 
+
+#ft { 
+    clear: both;
+} 
+
+#ft { 
+    text-align: center;
+} 
+
+#ft { 
+    font-size: 93%;
+} 
+
+#logo-fp { 
+    font-size: 1px; 
+    line-height: 0; 
+    overflow: hidden; 
+    margin: 0 auto;
+} 
+
+.box-outer { 
+    border: 1px solid; 
+    zoom: 100%; 
+    margin-bottom: .5em; 
+    padding-bottom: .5em;
+} 
+
+#announce { 
+    background: #fff; 
+    color: #000;
+} 
+
+.danbo-slot { 
+    width: 728px; 
+    height: 90px; 
+    margin: 10px auto; 
+    overflow: hidden;
+} 
+
+.top-box { 
+    background: #fff;
+} 
+
+ul { 
+    margin: 0; 
+    padding: 0;
+} 
+
+#ft ul  { 
+    margin: 0; 
+    width: 750px;
+} 
+
+#ft ul  { 
+    display: inline-block;
+} 
+
+#ft ul  { 
+    display: inline;
+} 
+
+#ft ul  { 
+    display: table; 
+    margin: auto;
+} 
+
+#ft ul  { 
+    border-top: 1px solid;
+} 
+
+br.clear-bug { 
+    height: 0; 
+    line-height: 0; 
+    clear: both;
+} 
+
+#copyright { 
+    text-align: center; 
+    margin-top: 1em; 
+    margin-bottom: 1em;
+} 
+
+#copyright { 
+    font-size: 11px;
+} 
+
+li { 
+    margin: 0; 
+    padding: 0;
+} 
+
+li { 
+    list-style: none;
+} 
+
+#ft li  { 
+    display: block; 
+    float: left; 
+    border: 1px solid; 
+    padding-left: 1em; 
+    padding-right: 1em; 
+    padding-bottom: 2px; 
+    border-left: none; 
+    margin-top: -1px; 
+    padding-top: 2px;
+} 
+
+#ft li  { 
+    background: #fed;
+} 
+
+#ft li.fill  { 
+    border: 0; 
+    padding-bottom: 4px; 
+    border-top: 1px solid; 
+    width: 68px;
+} 
+
+#ft li.fill  { 
+    background: #ffe; 
+    color: #800;
+} 
+
+#ft li.first  { 
+    border-left: 1px solid;
+} 
+
+img { 
+    border: 0;
+} 
+
+#logo-fp img  { 
+    margin: auto; 
+    display: block; 
+    border: none;
+} 
+
+.boxbar { 
+    padding-left: .5em; 
+    line-height: 2em;
+} 
+
+.boxbar { 
+    position: relative; 
+    zoom: 100%;
+} 
+
+.boxbar { 
+    background: #fca; 
+    color: #800;
+} 
+
+#announce .boxbar  { 
+    background: #800; 
+    color: #fff;
+} 
+
+.boxcontent { 
+    padding: .5em; 
+    padding-top: .25em; 
+    padding-bottom: 0; 
+    line-height: 130%;
+} 
+
+.boxcontent { 
+    font-size: 93%;
+} 
+
+#announce .boxcontent  { 
+    line-height: 1.5em;
+} 
+
+#site-stats .boxcontent  { 
+    margin-top: 5px; 
+    text-align: center;
+} 
+
+#ft li a  { 
+    color: #800; 
+    text-decoration: none;
+} 
+
+#ft li a:hover { 
+    color: #c63;
+} 
+
+h2 { 
+    margin: 0; 
+    padding: 0;
+} 
+
+h2 { 
+    font-size: 100%; 
+    font-weight: normal;
+} 
+
+h2 { 
+    font-size: 131%; 
+    font-weight: bold;
+} 
+
+.closebutton { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    margin-right: 4px; 
+    width: 16px; 
+    height: 16px; 
+    margin-top: 4px; 
+    cursor: pointer;
+} 
+
+.closebutton { 
+    background: #800 url('https://s.4cdn.org/image/fp/icon-close-red.png');
+} 
+
+#wot-cnt { 
+    min-height: 91px;
+} 
+
+#filter-btn { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    padding-right: .25em;
+} 
+
+#filter-btn:hover { 
+    cursor: pointer; 
+    color: #c63;
+} 
+
+#boards .column  { 
+    float: left; 
+    width: 12em;
+} 
+
+#opts-btn { 
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    padding-right: .25em;
+} 
+
+#opts-btn:hover { 
+    cursor: pointer; 
+    color: #c63;
+} 
+
+#c-threads { 
+    text-align: center;
+} 
+
+.stat-cell { 
+    display: inline-block; 
+    width: 33%;
+} 
+
+p { 
+    margin: 0; 
+    padding: 0;
+} 
+
+h3 { 
+    margin: 0; 
+    padding: 0;
+} 
+
+h3 { 
+    font-size: 100%; 
+    font-weight: normal;
+} 
+
+h3 { 
+    font-size: 100%; 
+    font-weight: bold;
+} 
+
+.c-thread { 
+    vertical-align: top; 
+    display: inline-block; 
+    word-wrap: break-word; 
+    overflow: hidden; 
+    margin-top: 5px; 
+    padding: 5px 0 3px 0; 
+    position: relative; 
+    width: 175px; 
+    max-height: 320px; 
+    margin-bottom: 10px;
+} 
+
+.warning { 
+    color: #e00;
+} 
+
+.c-board { 
+    font-weight: bold; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    display: block; 
+    white-space: nowrap; 
+    margin-bottom: 5px;
+} 
+
+.c-teaser { 
+    margin-bottom: 5px; 
+    padding: 0 2px; 
+    white-space: pre-line;
+} 
+
+#boards a  { 
+    color: #800; 
+    text-decoration: none;
+} 
+
+#boards a:hover { 
+    color: #e00; 
+    text-decoration: underline;
+} 
+
+sup { 
+    vertical-align: text-top;
+} 
+
+.c-thread img  { 
+    border: 1px solid #800; 
+    display: inline-block;
+} 
+
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#danbo-s-t.style-HQzBB {  
+   display: none !important;  
+}  
+#style-pCOPR.style-pCOPR {  
+   text-decoration: underline;  
+    display: inline;  
+}  
+#style-RAvML.style-RAvML {  
+   text-decoration: underline;  
+    display: inline;  
+}  
+#style-WMvJA.style-WMvJA {  
+   display: inline;  
+}  
+#style-hoHc7.style-hoHc7 {  
+   vertical-align: text-bottom;  
+}  
+#style-nnpWn.style-nnpWn {  
+   top: -2px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-Atrij.style-Atrij {  
+   top: -4px;  
+    left: -4px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-mJX3d.style-mJX3d {  
+   top: 772px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-rxhng.style-rxhng {  
+   top: -2px;  
+    left: -2px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-P1IXn.style-P1IXn {  
+   top: -2px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-cQadB.style-cQadB {  
+   top: -4px;  
+    left: -4px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-Ooqg6.style-Ooqg6 {  
+   top: 761px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-DiYRb.style-DiYRb {  
+   top: -2px;  
+    left: -2px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-51O9D.style-51O9D {  
+   top: 0px;  
+    left: 0px;  
+    position: absolute;  
+}  
+#style-qtMnt.style-qtMnt {  
+   top: -2px;  
+    left: 783px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-zfrLG.style-zfrLG {  
+   top: -2px;  
+    left: 1083px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-6gIPh.style-6gIPh {  
+   top: 120px;  
+    left: 783px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-JjcYt.style-JjcYt {  
+   top: -2px;  
+    left: 781px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-E4twJ.style-E4twJ {  
+   top: -2px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-vqlWs.style-vqlWs {  
+   top: -4px;  
+    left: -4px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-qRia7.style-qRia7 {  
+   top: 761px;  
+    left: 0px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-j9lgi.style-j9lgi {  
+   top: -2px;  
+    left: -2px;  
+    height: 0px;  
+    width: 0px;  
+}  
+#style-KCzzR.style-KCzzR {  
+   top: 0px;  
+    left: 0px;  
+    position: absolute;  
+}  
+#snipcss-kiwi.style-8T6W8 {  
+   left: 1756px;  
+    top: 0px;  
+}  
